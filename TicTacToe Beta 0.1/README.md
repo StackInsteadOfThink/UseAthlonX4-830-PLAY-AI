@@ -1,3 +1,5 @@
+> 🌐 **如果你是外国用户 / English speakers**: 请阅读英文版说明 → [**README-en.md**](README-en.md) *(English version)*
+
 # 三子棋 AI (TicTacToe)
 
 在速龙 X4 830（纯 CPU）上用 **Q-learning 自对弈**训练的井字棋 AI。AI 自己和自己下了几万局，学会了不输的下法——它对完美棋手能全平局（不败）。
