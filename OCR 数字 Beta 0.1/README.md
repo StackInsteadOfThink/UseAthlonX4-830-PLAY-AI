@@ -1,3 +1,5 @@
+> 🌐 **如果你是外国用户 / English speakers**: 请阅读英文版说明 → [**README-en.md**](README-en.md) *(English version)*
+
 # OCR 数字识别（手写数字）
 
 在速龙 X4 830（纯 CPU）上训练的**手写数字识别**分类器，用经典的 MNIST 数据集（6 万张 28×28 手写数字图），能认出 0–9 是哪张图。
