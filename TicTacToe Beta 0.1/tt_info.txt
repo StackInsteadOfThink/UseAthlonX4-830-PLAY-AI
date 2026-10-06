@@ -1,0 +1,11 @@
+Q  shape=(19683, 9)  dtype=float64
+  样本: [-6.72087564e-02 -8.38690679e-02  6.98899635e-05 -1.24545434e-01
+ -6.58089549e-02]
+episodes  shape=()  dtype=int64
+  样本: [50000]
+win  shape=()  dtype=int64
+  样本: [10945]
+lose  shape=()  dtype=int64
+  样本: [0]
+draw  shape=()  dtype=int64
+  样本: [39055]
