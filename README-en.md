@@ -1,3 +1,5 @@
+> 🚀 **The author is challenging to train a 3-million-parameter LLM on an Athlon X4 830 CPU — the first on the whole site. Wish me luck!**
+
 # 🐎 Playing AI on an Athlon X4 830 — Pure-Numpy CIFAR-10 Image Classification
 
 > *This is the English version of the main README. For the Chinese version, see [README.md](README.md).*

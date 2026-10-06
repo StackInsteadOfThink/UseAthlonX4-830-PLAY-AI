@@ -1,3 +1,5 @@
+> 🚀 **本作者正在挑战用速龙 X4 830 CPU 训练 300 万级参数的大模型，全站第一例，祝我成功哦！**
+
 > 🌐 **如果你是外国用户 / English speakers**: 请阅读英文版说明 → [**README-en.md**](README-en.md) *(English version)*
 
 # 🐎 用速龙 X4 830 玩 AI —— 纯 numpy 从零训练 CIFAR-10 图像分类
