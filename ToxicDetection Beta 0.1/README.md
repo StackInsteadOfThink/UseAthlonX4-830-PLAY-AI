@@ -1,3 +1,5 @@
+> 🌐 **如果你是外国用户 / English speakers**: 请阅读英文版说明 → [**README-en.md**](README-en.md) *(English version)*
+
 # 毒舌 / 种族歧视检测
 
 判断一句话属于三类之一：**正常 / 脏话 / 种族歧视**。中英文都支持，在速龙 X4 830（纯 CPU）上训练。
