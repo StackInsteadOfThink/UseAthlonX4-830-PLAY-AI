@@ -1,3 +1,5 @@
+> 🌐 **如果你是外国用户 / English speakers**: 请阅读英文版说明 → [**README-en.md**](README-en.md) *(English version)*
+
 # Q-Learning 走迷宫
 
 在速龙 X4 830（纯 CPU，不用显卡）上训练的强化学习小项目：AI 用 **Q-learning** 算法自己在迷宫里反复试错，学会从入口走到出口。
