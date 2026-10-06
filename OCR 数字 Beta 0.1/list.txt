@@ -1,0 +1,14 @@
+﻿
+Name             
+----             
+download_mnist.py
+list.txt         
+ocr_model.npz    
+ocr_preview.png  
+ocr_train.py     
+test_images.npy  
+test_labels.npy  
+train_images.npy 
+train_labels.npy 
+
+
