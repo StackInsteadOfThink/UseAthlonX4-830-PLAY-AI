@@ -1,11 +1,28 @@
-> 🚀 **The author is challenging to train a 3-million-parameter LLM on an Athlon X4 830 CPU — the first on the whole site. Wish me luck!**
-
-# 🐎 Playing AI on an Athlon X4 830 — Pure-Numpy CIFAR-10 Image Classification
-
+> 🚀 **This project is a low-end CPU AI experiment series, built on an AMD Athlon X4 830 with pure NumPy.**
+>
 > *This is the English version of the main README. For the Chinese version, see [README.md](README.md).*
-
+>
+> This project showcases a set of lightweight AI experiments running on a **2015 AMD Athlon X4 830** without AVX2, GPU acceleration, or deep-learning frameworks.
+> It includes **CIFAR-10 image classification**, **Chinese/English emotion analysis**, **handwritten digit recognition**, **Q-Learning**, **TicTacToe**, and more.
+>
+> The goal is simple: prove that AI can still be trained, run, and explored on old hardware with compact models and minimal software.
+>
+> **This is an experimental, learning-oriented, demo-first project — not a production-grade commercial model.**
+>
+> # 🐎 Playing AI on an Athlon X4 830 — Pure-Numpy CIFAR-10 Image Classification
+>
 > An image-classification model trained on a **2015 AMD Athlon X4 830** (no AVX2, no GPU acceleration).
 > Everything is **pure numpy** — hand-written convolution, pooling and backprop — to train a CNN from scratch that can recognize images.
+
+---
+
+## 📌 Project status / known limitations
+
+- This repo is a low-end CPU AI experiment and mini-project collection, not a commercial or large-scale production model.
+- It is designed to demonstrate that small AI models can still be trained and run on very limited hardware.
+- The main focus is reproducibility, experimentation, and teaching value rather than pushing raw benchmark performance.
+- Most projects are demo-first and educational in nature; feedback and ideas are welcome through Issues.
+- These models are intended for research, learning, and experiments, not for high-risk production deployment.
 
 ---
 
@@ -110,7 +127,7 @@ Because there's no AVX2, PyTorch / TensorFlow won't even install — so **the wh
 
 ## 📢 About This Project (honest note)
 
-This project was built with **Doubao AI (ByteDance) local-workflow assistance**.
+This project was built with **Doubao AI (ByteDance) local-workflow assistance** and then refined into a reusable AI experiments portfolio.
 
 If a `.py` script flashes and closes when you run it, **the script isn't broken** — usually:
 1. `.py` files **can't be double-clicked** (it flashes and exits). Run them with `python` from the command prompt;
@@ -208,7 +225,7 @@ For real: this project is built on **Python 3.12.6** and needs **Windows 10 (64-
 
 ## 📂 Other AI Projects in This Repo
 
-This repo isn't just CIFAR image classification — **it's a whole AI series trained on the same Athlon X4 830 with pure numpy**. There are more project folders in this repo; open them and read each one's `README.md` to learn more:
+This repo isn't just CIFAR image classification — **it's a whole AI series trained on the same Athlon X4 830 with pure numpy**. There are more project folders in this repo; open them and read each README for details.
 
 | Folder | Project |
 |---|---|
