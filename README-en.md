@@ -1,4 +1,4 @@
-> 🚀 **The author is challenging to train a 3-million-parameter LLM on an Athlon X4 830 CPU — the first on the whole site. Wish me luck!**
+> 🚀 **The author is currently working on a super traffic-sign-recognition project. Training data, the model, and all scripts will be released together — please be patient!**
 
 # 🐎 Playing AI on an Athlon X4 830 — Pure-Numpy CIFAR-10 Image Classification
 
