@@ -1,4 +1,4 @@
-> 🚀 **The author is currently working on a super traffic-sign-recognition project. Training data, the model, and all scripts will be released together — please be patient!**
+> 🚀 **My PC has hit the limit of time, physics, and the family electricity bill — I can't keep going. But the original images are still here. Train with my dataset if you like. Any issue with the data? Contact me: fevergames365@outlook.com**
 
 # 🐎 Playing AI on an Athlon X4 830 — Pure-Numpy CIFAR-10 Image Classification
 
